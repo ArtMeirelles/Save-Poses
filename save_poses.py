@@ -1,3 +1,12 @@
+
+'''
+Made by Arthur Cury Meirelles
+The goal was to make a script that save poses for animation or when you are painting weights.
+Contact:
+    arthurcurymeirelles@hotmail.com
+    https://www.linkedin.com/in/arthurm3d
+'''
+
 import maya.cmds as cmds
 import os
 from functools import partial
